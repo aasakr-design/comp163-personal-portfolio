@@ -1,32 +1,32 @@
 # comp163-personal-portfolio
-Personal portfolio project for COMP 163
-# === PERSONAL INFORMATION ===
-student_name = "Abdelrahman Sakr"
-email = "aasakr@aggies.ncat.edu"
-hometown = "Chapel Hill, NC"
-graduation = "Fall 2029"
-major = "Computer Science"
+# Assignment 3
 
-# === ACADEMIC PROFILE ===
-current_courses = ["COMP 163", "COMP 390", "ENGL 100", "GEEN 111", "HIST 106"]
-completed_courses = []  # None yet
-estimated_gpa = 3.7
+## Author
+Abdelrahman Sakr- COMP 163, Fall 2025
 
-# === CONTACT INFORMATION ===
-phone = "929-208-9422"
+## Description
+A Python program that showcases a personal and academic portfolio. It demonstrates the use of various Python data structures like strings, lists, sets, and dictionaries to store and display personal, academic, and financial information. The project also serves as an exercise in using Git for version control to track development progress.
 
-# === SKILLS & GOALS ===
-skills = {"Python", "Problem-Solving"}
-learning_goals = {"Strengthen coding fundamentals", "Improve study habits"}
-career_interests = {"Software Engineer", "Cybersecurity Analyst"}
-hobbies = {"Soccer", "Photography"}
+## Features
+-   **Displays personal details:** Shows the author's name, email, hometown, graduation information, and major.
+-   **Outlines academic profile:** Lists current and completed courses, along with an estimated GPA.
+-   **Details skills and interests:** Highlights current skills, learning goals, career interests, and hobbies using sets.
+-   **Manages financial and study habits:** Uses dictionaries to store monthly budget estimates and study hour data.
+-   **Provides contact information:** Includes personal and social media contact details.
+-   **Calculates and presents data:** Computes totals and averages from the stored data for display.
+-   **Uses professional output formatting:** Ensures all printed information is clean and easy to read.
 
-# === BUDGET & STUDY HABITS ===
-monthly_budget = (600, 700)  # Range
-weekly_study_hours = 8
-
-# === SOCIAL MEDIA ===
-social_media = {"Instagram": ("@3bdou_sakr", 673)}
-
-
+## How to Run
+1.  **Clone the repository:** Open your terminal and run the following command to clone the project to your local machine.
+    ```sh
+    git clone https://github.com/[your-username]/comp163-personal-portfolio.git
+    ```
+2.  **Navigate to the project directory:**
+    ```sh
+    cd comp163-personal-portfolio
+    ```
+3.  **Run the Python script:** Execute the program from your terminal using the following command.
+    ```sh
+    python aasakr_assignment_3.py
+    ```
 
